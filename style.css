@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background-color: #000000;
+  opacity: 0.9;
+  margin: 2em;
+  font-family;"Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  color: #ABB2B9;
+}
+
+h1 {
+  font-family:"Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  color: #D6DBDF;
+  
+}
+
+h2 {
+  margin-top: 2em; 
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
+
+
